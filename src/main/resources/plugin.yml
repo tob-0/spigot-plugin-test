@@ -1,0 +1,4 @@
+name: PluginDemo
+main: com.ottomata.demo.App
+description: Plugin Demo
+version: ${project.version}
